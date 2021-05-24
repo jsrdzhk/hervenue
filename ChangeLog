@@ -1,0 +1,84 @@
+[0.5.0]
+    Feature:
+    1. add first line method
+
+[0.4.0]
+    Feature:
+    1. add algorithm module
+
+[0.3.0]
+    Feature:
+    1. add read file by encoding util
+
+[0.2.3]
+    Feature:
+    1. add some adb functions
+
+[0.2.2]
+    BugFix:
+    1. get requirements from requirements.txt
+
+[0.2.1]
+    BugFix:
+    1. modify extract domain function
+
+[0.2.0]
+    Feature:
+    1.add some adb function
+
+[0.1.17]
+    Features:
+    1.add check device rooted function
+    2.add check system partition rw function
+
+[0.1.16]
+    Features:
+    1.do not create log dir if only log to console
+
+[0.1.15]
+    Features:
+    1.add testdata
+    2.move some functions
+    3.interface remove localhost
+
+[0.1.14]
+    Features:
+    1.fix Adb.top_app bug
+
+[0.1.13]
+    Features:
+    1. Change timer decorator name
+
+[0.1.12]
+    Bug Fix:
+    1. fix timer decorator bug: can not accept function arguments
+
+[0.1.11]
+    Features:
+    1. add timer decorator
+
+[0.1.10]
+    Features:
+    1.add singleton design pattern
+    2.add mysql connection pool
+
+[0.1.9]
+    Features:
+    1.adjust some adb function
+
+[0.1.8]
+    Features:
+    1.add get pkg name from apk file func
+    2.rm redundant code
+
+[0.1.7]
+    Features:
+    1.add list_dirs_on_dir func
+
+[0.1.6]
+    Features:
+    1.add list_dir function
+
+[0.1.5]
+    Features:
+    1.add get domain from url function
